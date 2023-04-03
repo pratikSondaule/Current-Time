@@ -1,0 +1,13 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+h1{
+    font-size: 90px;
+}
+p{
+    font-size: 140px;
+}
